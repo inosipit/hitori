@@ -2,16 +2,16 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By Naze
+	* Create By ino
 	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Whatsapp : https://chat.whatsapp.com/CytZ6rqc8FEGcIqgdQKqvz
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['6287830586442'] //['628','628'] 2 owner
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
+global.author = 'ino bot'
 global.botname = 'ino Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
@@ -30,7 +30,7 @@ global.fake = {
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
 	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
+	gc: 'https://chat.whatsapp.com/CytZ6rqc8FEGcIqgdQKqvz',
 	ch: '120363250409960161@newsletter',
 }
 
@@ -41,7 +41,7 @@ global.limit = {
 }
 
 global.uang = {
-	free: 10000,
+	free: 100,
 	premium: 1000000,
 	vip: 10000000
 }
